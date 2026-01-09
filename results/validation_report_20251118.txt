@@ -1,0 +1,173 @@
+MODEL VALIDATION REPORT
+============================================================
+Date: 2025-11-16
+Validation Period: Last 60 days
+Models Validated: 10
+
+
+AAPL Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 40
+Accuracy: 0.6667 (66.67%)
+Precision: 0.8696 (86.96%)
+Recall: 0.5405 (54.05%)
+
+Confusion Matrix:
+  True Positives:  20
+  False Positives: 3
+  False Negatives: 17
+  True Negatives:  20
+
+Predicted UP: 23, Actual UP: 37
+
+MSFT Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 35
+Accuracy: 0.5833 (58.33%)
+Precision: 0.7368 (73.68%)
+Recall: 0.4118 (41.18%)
+
+Confusion Matrix:
+  True Positives:  14
+  False Positives: 5
+  False Negatives: 20
+  True Negatives:  21
+
+Predicted UP: 19, Actual UP: 34
+
+NVDA Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 34
+Accuracy: 0.5667 (56.67%)
+Precision: 0.6667 (66.67%)
+Recall: 0.3750 (37.50%)
+
+Confusion Matrix:
+  True Positives:  12
+  False Positives: 6
+  False Negatives: 20
+  True Negatives:  22
+
+Predicted UP: 18, Actual UP: 32
+
+GOOGL Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 36
+Accuracy: 0.6000 (60.00%)
+Precision: 0.6071 (60.71%)
+Recall: 0.9444 (94.44%)
+
+Confusion Matrix:
+  True Positives:  34
+  False Positives: 22
+  False Negatives: 2
+  True Negatives:  2
+
+Predicted UP: 56, Actual UP: 36
+
+AMZN Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 36
+Accuracy: 0.6000 (60.00%)
+Precision: 0.6818 (68.18%)
+Recall: 0.4688 (46.88%)
+
+Confusion Matrix:
+  True Positives:  15
+  False Positives: 7
+  False Negatives: 17
+  True Negatives:  21
+
+Predicted UP: 22, Actual UP: 32
+
+TSLA Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 38
+Accuracy: 0.6333 (63.33%)
+Precision: 1.0000 (100.00%)
+Recall: 0.3125 (31.25%)
+
+Confusion Matrix:
+  True Positives:  10
+  False Positives: 0
+  False Negatives: 22
+  True Negatives:  28
+
+Predicted UP: 10, Actual UP: 32
+
+META Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 40
+Accuracy: 0.6667 (66.67%)
+Precision: 0.8182 (81.82%)
+Recall: 0.5294 (52.94%)
+
+Confusion Matrix:
+  True Positives:  18
+  False Positives: 4
+  False Negatives: 16
+  True Negatives:  22
+
+Predicted UP: 22, Actual UP: 34
+
+JPM Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 37
+Accuracy: 0.6167 (61.67%)
+Precision: 0.7097 (70.97%)
+Recall: 0.6111 (61.11%)
+
+Confusion Matrix:
+  True Positives:  22
+  False Positives: 9
+  False Negatives: 14
+  True Negatives:  15
+
+Predicted UP: 31, Actual UP: 36
+
+V Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 40
+Accuracy: 0.6667 (66.67%)
+Precision: 0.6364 (63.64%)
+Recall: 0.5385 (53.85%)
+
+Confusion Matrix:
+  True Positives:  14
+  False Positives: 8
+  False Negatives: 12
+  True Negatives:  26
+
+Predicted UP: 22, Actual UP: 26
+
+JNJ Results:
+----------------------------------------
+Total Predictions: 60
+Correct Predictions: 33
+Accuracy: 0.5500 (55.00%)
+Precision: 0.8000 (80.00%)
+Recall: 0.2424 (24.24%)
+
+Confusion Matrix:
+  True Positives:  8
+  False Positives: 2
+  False Negatives: 25
+  True Negatives:  25
+
+Predicted UP: 10, Actual UP: 33
+
+
+OVERALL AVERAGES:
+----------------------------------------
+Average Accuracy:  0.6150 (61.50%)
+Average Precision: 0.7526 (75.26%)
+Average Recall:    0.4974 (49.74%)

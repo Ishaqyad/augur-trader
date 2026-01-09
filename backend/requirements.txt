@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+yfinance
+pandas
+joblib
+sqlalchemy
+ta
+scikit-learn
+xgboost
+python-multipart
