@@ -1,4 +1,4 @@
-# Augur Trader 
+# Augur Trader | Trading App
 
 Trading with stock market behavior using historical data, technical indicators, and simulated trading. Users can analyze price charts, place paper trades, track positions, and review trade history in a risk free environment.
 
